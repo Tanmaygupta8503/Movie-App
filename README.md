@@ -2,7 +2,8 @@
 
 Welcome to the Movie App! This React-based application allows users to browse and interact with a collection of movie posters. It includes features like adding/removing star ratings, adding/removing movies to/from the cart, and adding/removing movies to/from favorites.
 
-![Movie App Screenshot]([screenshot.png](https://github.com/Tanmaygupta8503/Movie-App/blob/main/Web%20capture_1-10-2023_184327_localhost.jpeg?raw=true))
+![Movie App Screenshot](https://github.com/Tanmaygupta8503/Movie-App/raw/main/Web%20capture_1-10-2023_184327_localhost.jpeg)
+
 
 ## Table of Contents
 
