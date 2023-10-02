@@ -1,5 +1,5 @@
 import React from "react";
-import './styles.css'
+// import { movies } from "./moviesData";
 class MovieCard extends React.Component{
 
     render(){
